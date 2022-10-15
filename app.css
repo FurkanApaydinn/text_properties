@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+  width: 50%;
+  font-weight: 700;
+  text-decoration: wavy underline;
+  /* altı çizili yapma */
+  letter-spacing: 10px;
+  /* harfler arası aralık */
+  font-size: 10px;
+  /* yazı büyüklüğü */
+  font-family: "Fuzzy Bubbles", cursive;
+  /* yazı tipini ayarlama */
+}
+p {
+  text-align: right;
+  line-height: 2;
+  /* satır aralığı */
+}
+a {
+  text-decoration: none;
+  /* altı çiziliyi kaldırma */
+}
+body {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+@import url("https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap");
